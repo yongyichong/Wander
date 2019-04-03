@@ -1,0 +1,4 @@
+#Wed Apr 03 10:06:37 SGT 2019
+base.0=C\:\\Users\\TARUC\\Desktop\\Wander\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
